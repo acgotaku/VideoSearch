@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\安师大校园视频\Search" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/11/2012 16:06:16" />
+    <file relUrl="Analyze.aspx" publishTime="12/15/2012 20:50:39" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="12/10/2012 19:37:18" />
+    <file relUrl="packages.config" publishTime="12/10/2012 19:37:20" />
+    <file relUrl="Analyze.ashx" publishTime="12/11/2012 14:29:28" />
+    <file relUrl="test.htm" publishTime="12/15/2012 16:03:46" />
+    <file relUrl="Default.aspx" publishTime="12/15/2012 15:56:26" />
+    <file relUrl="Scripts/jquery-1.7.1-vsdoc.js" publishTime="12/10/2012 19:36:59" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="12/10/2012 19:37:18" />
+    <file relUrl="bin/VideoSearch.dll" publishTime="12/15/2012 21:09:27" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="12/10/2012 19:37:18" />
+    <file relUrl="Search.ashx" publishTime="12/10/2012 19:39:44" />
+    <file relUrl="Scripts/jquery-1.7.1.js" publishTime="12/10/2012 19:37:00" />
+    <file relUrl="Scripts/jquery-1.7.1.min.js" publishTime="12/10/2012 19:37:00" />
+    <file relUrl="img/logo.jpg" publishTime="12/11/2012 20:23:30" />
+    <file relUrl="css/base.css" publishTime="12/15/2012 20:58:32" />
+    <file relUrl="bin/VideoSearch.pdb" publishTime="12/15/2012 21:09:27" />
+  </publishProfile>
+</publishData>
